@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![iqbalmusyaffa's Stats](https://github-readme-stats.vercel.app/api?username=iqbalmusyaffa&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![iqbalmusyaffa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqbalmusyaffa&theme=vue-dark&hide_border=false)
 ![iqbalmusyaffa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmusyaffa&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1" alt="My Tech Stack" />
