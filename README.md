@@ -1,91 +1,145 @@
 # 👋 Hi, I'm Iqbal Musyaffa Yusa Bbih Lillah
 
-💻 **Full Stack Web Developer** | 🎓 Information Systems Graduate | 🇮🇩 Indonesia
+<p align="center">
+  <a href="https://github.com/iqbalmusyaffa">
+    <img src="https://komarev.com/ghpvc/?username=iqbalmusyaffa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/iqbalmusyaffa?tab=followers">
+    <img src="https://img.shields.io/github/followers/iqbalmusyaffa?label=Followers&style=flat&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/iqbalmusyaffa">
+    <img src="https://img.shields.io/github/stars/iqbalmusyaffa?label=Stars&style=flat&logo=github" alt="Stars" />
+  </a>
+</p>
 
-I'm a passionate Full Stack Web Developer who enjoys building scalable, clean, and user-friendly web applications. I have experience developing both frontend and backend systems using modern technologies, with a primary focus on Laravel, React, and RESTful APIs.
+## 💻 About Me
 
-I am always eager to learn new technologies, improve my problem-solving skills, and contribute to impactful projects.
+I'm a passionate **Full Stack Web Developer** from **Indonesia** who enjoys building modern, scalable, and user-friendly web applications.
 
----
-
-## 🚀 About Me
+I have experience in both frontend and backend development, especially using **Laravel**, **React**, **Node.js**, and **RESTful APIs**. I enjoy learning new technologies, solving real-world problems, and continuously improving my software engineering skills.
 
 - 🎓 Bachelor's Degree in Information Systems
-- 💻 Passionate about Web Development
+- 💼 Open to Full-Time, Internship, and Freelance Opportunities
 - 🌱 Currently learning Software Architecture & System Design
-- ⚡ Interested in Backend Development, API Development, and Full Stack Engineering
-- 🤝 Open to Internship, Freelance, and Full-Time Opportunities
+- 🚀 Interested in Backend Development, Full Stack Engineering, and Cloud Technology
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqbalmusyaffa&show_icons=true&theme=vue-dark&hide_border=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalmusyaffa&theme=vue-dark&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbalmusyaffa&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalmusyaffa&theme=vue-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmusyaffa&layout=compact&theme=vue-dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmusyaffa&layout=compact&theme=vue-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmusyaffa&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iqbalmusyaffa&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🚀 Tech Stack
 
 ## 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue,bootstrap,tailwind,vite" />
+</p>
 
-## ⚙ Backend
+## ⚙️ Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
 
-## 🗄 Database
+## 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ## 🔐 Authentication & API
 
+<p>
+
 ![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+
+</p>
 
 ## 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Laravel Advanced
 - React Ecosystem
-- RESTful API Design
 - Software Architecture
 - Clean Code
 - Design Patterns
+- Cloud Computing
+- Docker
+- CI/CD
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-📧 **Email**  
-**yusa82401@gmail.com**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 📸 InstaApp | Instagram-like social media application | Laravel, React, MySQL |
+| 🛒 E-Commerce | Digital product marketplace | Laravel, React, Sanctum |
+| 💰 Financial Information System | Company financial management system | Laravel, Vue.js |
+| ✈️ Virtual Radar & Logbook | Aircraft tracking system | Django, React |
+| 🌐 Company Profile | Modern responsive company profile website | Laravel, Tailwind CSS |
 
-💼 **LinkedIn**  
-https://linkedin.com/in/iqbalmusyaffa
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:yusa82401@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/iqbalmusyaffa">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/iqbalmusyaffa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Code is like humor. When you have to explain it, it's bad."*  
+> **— Cory House**
 
 ---
 
@@ -93,6 +147,8 @@ https://linkedin.com/in/iqbalmusyaffa
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+If you like my projects, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=120&section=footer"/>
 
 </div>
