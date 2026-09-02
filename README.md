@@ -6,7 +6,7 @@
 <!-- ==================== TYPING SUBTITLE ==================== -->
 <div align="center">
   <a href="https://github.com/iqbalmusyaffa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Iqbal+Musyaffa+👋;Full+Stack+Web+Developer;Laravel+%26+React+Specialist;Building+Scalable+%26+Modern+Web+Apps;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Laravel+and+React+Specialist;Building+Scalable+and+Modern+Web+Apps;Lifelong+Learner+and+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
   <a href="https://github.com/iqbalmusyaffa">
     <img src="https://img.shields.io/github/stars/iqbalmusyaffa?label=Stars&color=0284c7&style=flat-square&logo=github" alt="Stars" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-0284c7?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-0284c7?style=flat-square" alt="Location" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ current_focus: Distributed Systems, Software Architecture & Cloud DevOps
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=iqbalmusyaffa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iqbalmusyaffa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com/?user=iqbalmusyaffa&theme=tokyonight&hide_border=true" height="175" alt="Streak Stats" />
@@ -106,21 +106,14 @@ current_focus: Distributed Systems, Software Architecture & Cloud DevOps
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmusyaffa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iqbalmusyaffa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmusyaffa&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iqbalmusyaffa&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalmusyaffa&theme=tokyonight" width="48%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbalmusyaffa&theme=tokyonight" width="48%" alt="Repos per Language" />
 </div>
 
 ---
