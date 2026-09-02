@@ -65,13 +65,13 @@ I have experience in both frontend and backend development, especially using **L
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,django" />
 </p>
 
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ## 🔐 Authentication & API
@@ -86,33 +86,29 @@ I have experience in both frontend and backend development, especially using **L
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
 </p>
 
 ---
 
 # 🌱 Currently Learning
 
-- Laravel Advanced
-- React Ecosystem
-- Software Architecture
-- Clean Code
-- Design Patterns
-- Cloud Computing
-- Docker
-- CI/CD
+- Laravel Advanced & Microservices
+- React / Next.js Ecosystem
+- Software Architecture & Design Patterns
+- Cloud Computing & DevOps (Docker, CI/CD)
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📸 InstaApp | Instagram-like social media application | Laravel, React, MySQL |
-| 🛒 E-Commerce | Digital product marketplace | Laravel, React, Sanctum |
-| 💰 Financial Information System | Company financial management system | Laravel, Vue.js |
-| ✈️ Virtual Radar & Logbook | Aircraft tracking system | Django, React |
-| 🌐 Company Profile | Modern responsive company profile website | Laravel, Tailwind CSS |
+| Project | Description | Tech Stack | Repository / Demo |
+|---------|-------------|------------|-------------------|
+| 📸 **InstaApp** | Instagram-like social media application | `Laravel` `React` `MySQL` | [🔗 View Project](https://github.com/iqbalmusyaffa) |
+| 🛒 **E-Commerce** | Digital product marketplace with auth | `Laravel` `React` `Sanctum` | [🔗 View Project](https://github.com/iqbalmusyaffa) |
+| 💰 **Financial Information System** | Company financial management system | `Laravel` `Vue.js` `MySQL` | [🔗 View Project](https://github.com/iqbalmusyaffa) |
+| ✈️ **Virtual Radar & Logbook** | Aircraft tracking and flight logging system | `Django` `React` `REST API` | [🔗 View Project](https://github.com/iqbalmusyaffa) |
+| 🌐 **Company Profile** | Modern responsive company profile website | `Laravel` `Tailwind CSS` | [🔗 View Project](https://github.com/iqbalmusyaffa) |
 
 ---
 
