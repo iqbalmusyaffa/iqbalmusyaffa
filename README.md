@@ -134,7 +134,13 @@ developer:
 </div>
 
 <!-- ==================== FOOTER ==================== -->
-<div align="center">
+<!-- <div align="center">
   <p>⭐ <i>Thanks for visiting! Feel free to explore my repositories and drop a star.</i> ⭐</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:06B6D4&height=120&section=footer" width="100%" alt="Footer Banner"/>
+</div> -->
+<!-- ==================== FOOTER ==================== -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="130" alt="Coding Cat" />
+  <p>⭐ <i>Thanks for stopping by! Feel free to explore my repositories and drop a star.</i> ⭐</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:06B6D4&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
