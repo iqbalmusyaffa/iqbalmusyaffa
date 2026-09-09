@@ -74,29 +74,15 @@ developer:
 
 ### 📊 GitHub Activity & Statistics
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr align="center">
-      <td>
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iqbalmusyaffa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=0284c7" height="175" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=iqbalmusyaffa&theme=tokyonight&hide_border=true&stroke=0284c7&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="175" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iqbalmusyaffa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=0284c7" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=iqbalmusyaffa&theme=tokyonight&hide_border=true&stroke=0284c7&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="Streak Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iqbalmusyaffa&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalmusyaffa&theme=tokyonight" width="49%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbalmusyaffa&theme=tokyonight" width="49%" alt="Repos per Language" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iqbalmusyaffa&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
+</p>
 
 ---
 
