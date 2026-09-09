@@ -74,6 +74,12 @@ developer:
 
 ### 📊 GitHub Activity & Statistics
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iqbalmusyaffa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iqbalmusyaffa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=0284c7" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
@@ -83,6 +89,16 @@ developer:
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iqbalmusyaffa&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
 </p>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqbalmusyaffa/iqbalmusyaffa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqbalmusyaffa/iqbalmusyaffa/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/iqbalmusyaffa/iqbalmusyaffa/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
