@@ -50,28 +50,25 @@ developer:
 
 ### 🛠️ Tech Stack & Tooling
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🌐 Frontend Development</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,vue,vite&perline=5&theme=dark" alt="Frontend Stack" />
-    </td>
-    <td width="50%" valign="top">
-      <b>⚙️ Backend & APIs</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,django,fastapi&perline=5&theme=dark" alt="Backend Stack" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🗄️ Database & Caching</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4&theme=dark" alt="Database Stack" />
-    </td>
-    <td width="50%" valign="top">
-      <b>🔧 DevOps, Cloud & Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode,npm&perline=4&theme=dark" alt="Tools & DevOps" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <b>🌐 Frontend Development</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,vue,vite&theme=dark" alt="Frontend" />
+</p>
+
+<p align="left">
+  <b>⚙️ Backend & API Engineering</b><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,django,fastapi&theme=dark" alt="Backend" />
+</p>
+
+<p align="left">
+  <b>🗄️ Database & Storage</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Database" />
+</p>
+
+<p align="left">
+  <b>🔧 DevOps, Cloud & Tooling</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode,npm&theme=dark" alt="Tools" />
+</p>
 
 ---
 
