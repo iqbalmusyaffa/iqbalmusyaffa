@@ -88,13 +88,13 @@ developer:
 
 ### 🚀 Featured Projects
 
-| Project | Highlights & Capabilities | Tech Stack | Repository |
+| Project | Highlights & Capabilities | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 📸 **InstaApp** | Social media app with real-time notifications, feeds & media management | `Laravel` `React` `MySQL` `Tailwind` | [🔗 View Code](https://github.com/iqbalmusyaffa) |
-| 🛒 **E-Commerce Platform** | Full-fledged digital marketplace with cart, multi-role auth & secure checkout | `Laravel` `React` `Sanctum` `MySQL` | [🔗 View Code](https://github.com/iqbalmusyaffa) |
-| 💰 **Financial Info System** | Enterprise cashflow accounting, automated financial ledger & reporting | `Laravel` `Vue.js` `MySQL` `Bootstrap` | [🔗 View Code](https://github.com/iqbalmusyaffa) |
-| ✈️ **Virtual Radar & Logbook** | Interactive real-time flight tracking visualization & pilot logging tool | `Django` `React` `REST API` `PostgreSQL` | [🔗 View Code](https://github.com/iqbalmusyaffa) |
-| 🌐 **Modern Company Profile** | High-performance corporate portal with dynamic content management & SEO | `Laravel` `Tailwind CSS` `Blade` | [🔗 View Code](https://github.com/iqbalmusyaffa) |
+| 📸 **InstaApp** | Real-time social platform with interactive feeds & media | `Laravel` `React` `MySQL` `Tailwind` | [Repo ↗](https://github.com/iqbalmusyaffa/insta-app) |
+| 🛒 **E-Commerce** | Multi-role digital marketplace with cart & secure checkout | `Laravel` `React` `Sanctum` `MySQL` | [Repo ↗](https://github.com/iqbalmusyaffa/ecommerce-platform) |
+| 💰 **Financial Info** | Enterprise accounting, cashflow ledger & financial reports | `Laravel` `Vue.js` `MySQL` `Bootstrap` | [Repo ↗](https://github.com/iqbalmusyaffa/financial-system) |
+| ✈️ **Radar & Logbook** | Interactive real-time flight visualizer & pilot logbook tool | `Django` `React` `REST API` `PostgreSQL` | [Repo ↗](https://github.com/iqbalmusyaffa/virtual-radar) |
+| 🌐 **Company Profile** | Modern corporate portal with custom CMS & SEO optimization | `Laravel` `Tailwind CSS` `Blade` | [Repo ↗](https://github.com/iqbalmusyaffa/company-profile) |
 
 ---
 
@@ -134,13 +134,8 @@ developer:
 </div>
 
 <!-- ==================== FOOTER ==================== -->
-<!-- <div align="center">
-  <p>⭐ <i>Thanks for visiting! Feel free to explore my repositories and drop a star.</i> ⭐</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:06B6D4&height=120&section=footer" width="100%" alt="Footer Banner"/>
-</div> -->
-<!-- ==================== FOOTER ==================== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="130" alt="Coding Cat" />
-  <p>⭐ <i>Thanks for stopping by! Feel free to explore my repositories and drop a star.</i> ⭐</p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" alt="Cyber Coding Cat" />
+  <p>⭐ <i>Thanks for visiting! Feel free to explore my repositories and drop a star.</i> ⭐</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:06B6D4&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
