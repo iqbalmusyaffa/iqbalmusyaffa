@@ -67,7 +67,7 @@ developer:
 
 <p align="left">
   <b>🔧 DevOps, Cloud & Tooling</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode,npm&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,nginx,postman,vscode,npm&theme=dark" alt="Tools" />
 </p>
 
 ---
